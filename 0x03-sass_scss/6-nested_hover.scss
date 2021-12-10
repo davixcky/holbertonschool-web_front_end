@@ -1,0 +1,7 @@
+/* Write a Sass file that assigns: Text color #FF0000 to button when hover this */
+button {
+  color: #ff0000;
+  &:hover {
+    color: #00ff00;
+  }
+}
